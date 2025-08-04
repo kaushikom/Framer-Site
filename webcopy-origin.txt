@@ -1,0 +1,2276 @@
+Uri: https://%20meet@www.codefriday.co/
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\index-1.htm
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/about
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\about-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/automations
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\automations-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/blogs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\blogs-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/blogs/cs-1
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\blogs\cs-1-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/blogs/cs-2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\blogs\cs-2-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/blogs/cs-3
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\blogs\cs-3-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/case-study
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/case-study/asappio
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\asappio-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/case-study/edgeiot
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\edgeiot-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/case-study/farmie
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\farmie-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/case-study/karocharge
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\karocharge-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/case-study/yutu
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\yutu-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/contact
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\contact-1.html
+Content Type: text/html
+
+Uri: https:// meet@www.codefriday.co/privacy-policy
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\privacy-policy-1.html
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HTEJm81Rb0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HTEJm81Rb0.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HTEJm86Rb0bcw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HTEJm86Rb0bcw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HTEJm87Rb0bcw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HTEJm87Rb0bcw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v8/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\bricolagegrotesque\v8\3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v8/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawDFXplDs.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\bricolagegrotesque\v8\3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawDFXplDs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v8/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawDVXplDs.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\bricolagegrotesque\v8\3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawDVXplDs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\dmsans\v16\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl36TGc5pg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\dmsans\v16\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl36TGc5pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRR232VGM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\dmsans\v16\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRR232VGM.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW32.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\dmsans\v16\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW32.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\dmsans\v16\rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\dmsans\v16\rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\dmsans\v16\rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\dmsans\v16\rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fahkwang/v17/Noa26Uj3zpmBOgbNpOIznalCHCtBkw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\fahkwang\v17\Noa26Uj3zpmBOgbNpOIznalCHCtBkw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fahkwang/v17/Noa26Uj3zpmBOgbNpOIznalWHCs.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\fahkwang\v17\Noa26Uj3zpmBOgbNpOIznalWHCs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fahkwang/v17/Noa26Uj3zpmBOgbNpOIznalYHCtBkw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\fahkwang\v17\Noa26Uj3zpmBOgbNpOIznalYHCtBkw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fahkwang/v17/Noa26Uj3zpmBOgbNpOIznalZHCtBkw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\fahkwang\v17\Noa26Uj3zpmBOgbNpOIznalZHCtBkw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fahkwang/v17/Noax6Uj3zpmBOgbNpOqcuLxpPQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\fahkwang\v17\Noax6Uj3zpmBOgbNpOqcuLxpPQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fahkwang/v17/Noax6Uj3zpmBOgbNpOqGuLxpPQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\fahkwang\v17\Noax6Uj3zpmBOgbNpOqGuLxpPQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fahkwang/v17/Noax6Uj3zpmBOgbNpOqHuLxpPQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\fahkwang\v17\Noax6Uj3zpmBOgbNpOqHuLxpPQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fahkwang/v17/Noax6Uj3zpmBOgbNpOqIuLw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\fahkwang\v17\Noax6Uj3zpmBOgbNpOqIuLw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/gayathri/v19/MCoQzAb429DbBilWLLAn-p7ABg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\gayathri\v19\MCoQzAb429DbBilWLLAn-p7ABg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/gayathri/v19/MCoQzAb429DbBilWLLA_-p4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\gayathri\v19\MCoQzAb429DbBilWLLA_-p4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v3/pxitypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNu15GR.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\instrumentsans\v3\pxitypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNu15GR.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v3/pxitypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNu2ZGRu3k.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\instrumentsans\v3\pxitypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNu2ZGRu3k.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v3/pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0She1YmV.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\instrumentsans\v3\pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0She1YmV.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v3/pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0SZe1Q.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\instrumentsans\v3\pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0SZe1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v31/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3j77e.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\nunito\v31\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3j77e.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v31/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTk3j77e.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\nunito\v31\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTk3j77e.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v31/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTo3j77e.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\nunito\v31\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTo3j77e.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v31/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3jw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\nunito\v31\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3jw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/nunito/v31/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTs3j77e.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\nunito\v31\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTs3j77e.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJbecmNE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\poppins\v23\pxiEyp8kv8JHgFVrJJbecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJfecg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\poppins\v23\pxiEyp8kv8JHgFVrJJfecg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJnecmNE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\poppins\v23\pxiEyp8kv8JHgFVrJJnecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/rethinksans/v6/AMOWz4SDuXOMCPfdoglY9JQEVFi3.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\rethinksans\v6\AMOWz4SDuXOMCPfdoglY9JQEVFi3.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/rethinksans/v6/AMOWz4SDuXOMCPfdoglY9JQEWli389k.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\rethinksans\v6\AMOWz4SDuXOMCPfdoglY9JQEWli389k.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6W-LOTXCb04q32xlpwtcZfrxE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\unbounded\v11\Yq6W-LOTXCb04q32xlpwtcZfrxE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6W-LOTXCb04q32xlpwtMZfrxE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\unbounded\v11\Yq6W-LOTXCb04q32xlpwtMZfrxE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6W-LOTXCb04q32xlpwtsZfrxE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\unbounded\v11\Yq6W-LOTXCb04q32xlpwtsZfrxE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6W-LOTXCb04q32xlpwu8Zf.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\unbounded\v11\Yq6W-LOTXCb04q32xlpwu8Zf.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6W-LOTXCb04q32xlpwv8ZfrxE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\s\unbounded\v11\Yq6W-LOTXCb04q32xlpwv8ZfrxE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/08bCJfmvizuFi36VeazboYh54CQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\08bCJfmvizuFi36VeazboYh54CQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\0E7IMbDzcGABpBwwqNEt60wU0w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0iDmxkizU9goZoclqIqsV5rvETU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\0iDmxkizU9goZoclqIqsV5rvETU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0SEEmmWc3vovhaai4RlRQSWRrz0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\0SEEmmWc3vovhaai4RlRQSWRrz0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1aaySnsnw0pKE2qUemKvHaM1tw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\1aaySnsnw0pKE2qUemKvHaM1tw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1ZgR8LZSrJTG9VOgP5wgqaL3lQ4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\1ZgR8LZSrJTG9VOgP5wgqaL3lQ4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3RO0kKTqHkJmvsJcJAr5at0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\3RO0kKTqHkJmvsJcJAr5at0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4hBRAuM02i3fsxYDzyNvt5Az2so.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\4hBRAuM02i3fsxYDzyNvt5Az2so.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4hhgqiTCDCCa8WhFmTB7QXODupk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\4hhgqiTCDCCa8WhFmTB7QXODupk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5CcgcVyoWSqO1THBiISd6oCog.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\5CcgcVyoWSqO1THBiISd6oCog.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5HcVoGak8k5agFJSaKa4floXVu0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\5HcVoGak8k5agFJSaKa4floXVu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5mDAOkC5Wpzo7NkuE9oYfqlY2u4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\5mDAOkC5Wpzo7NkuE9oYfqlY2u4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5u1LyW8isA2RA3QfYvCc6TVeGSU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\5u1LyW8isA2RA3QfYvCc6TVeGSU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6dsy2CbviAWDcszGLlgyaLpRMk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\6dsy2CbviAWDcszGLlgyaLpRMk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6e1qKhy2mljzCRhlGpuCksCGjGI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\6e1qKhy2mljzCRhlGpuCksCGjGI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6eYp9yIAUvPZY7o0yfI4e2OP6g.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\6eYp9yIAUvPZY7o0yfI4e2OP6g.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6FI2EneKzM3qBy5foOZXey7coCA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\6FI2EneKzM3qBy5foOZXey7coCA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\6mJuEAguuIuMog10gGvH5d3cl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6ZMhcggRFfEfbf7lncCpaUbA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\6ZMhcggRFfEfbf7lncCpaUbA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7b925B3vAlG2atcrbV7LoSudp7c.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\7b925B3vAlG2atcrbV7LoSudp7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\867QObYax8ANsfX4TGEVU9YiCM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8dxmIktsyEgZt0OloSu5gz6TgLI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\8dxmIktsyEgZt0OloSu5gz6TgLI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8E92vrr3j1gDqzepmeSbD2u0JxA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\8E92vrr3j1gDqzepmeSbD2u0JxA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8sCN6PGUr4I8q5hC5twAXfcwqV0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\8sCN6PGUr4I8q5hC5twAXfcwqV0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8yoV9pUxquX7VD7ZXlNYKQmkmk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\8yoV9pUxquX7VD7ZXlNYKQmkmk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/996sR9SfSDuYELz8oHhDOcErkY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\996sR9SfSDuYELz8oHhDOcErkY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/9iRSYClnXA0RMygyIn6yjjWXJw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\9iRSYClnXA0RMygyIn6yjjWXJw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/9WZaFuMg9OiQ7an8bugAJkUG04.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\9WZaFuMg9OiQ7an8bugAJkUG04.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/aKoimhPBfs6C7Am2HTTVjGcpE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\aKoimhPBfs6C7Am2HTTVjGcpE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/aUYDUTztS7anQw5JuwCncXeLOBY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\aUYDUTztS7anQw5JuwCncXeLOBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/biaVHhOprxbHaR3dIP7Z8cYurHg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\biaVHhOprxbHaR3dIP7Z8cYurHg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/bIwBTbnyeAOa9wQIBagEdRDHXhE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\bIwBTbnyeAOa9wQIBagEdRDHXhE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/bNYh7lNMEpOegeRYAtyGel1WqBE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\bNYh7lNMEpOegeRYAtyGel1WqBE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/BpOIEy4nYtcp1RwqOtwAgi2EiDE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\BpOIEy4nYtcp1RwqOtwAgi2EiDE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cugnVhSraaRyANCaUtI5FV17wk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\cugnVhSraaRyANCaUtI5FV17wk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DgDysCLt0HkIpWMu2uN5tivgQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\DgDysCLt0HkIpWMu2uN5tivgQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/dHHUz45rhM2KCQpj9zttNVlibk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\dHHUz45rhM2KCQpj9zttNVlibk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/djqIk3Er2JcAcz7Rup88BdINEw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\djqIk3Er2JcAcz7Rup88BdINEw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/dkR8k5Cze1rY2rQWCcFiLvNxm8M.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\dkR8k5Cze1rY2rQWCcFiLvNxm8M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\DolVirEGb34pEXEp8t8FQBSK4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DtVQjTG8OGGKnwKYrMHRZVCyo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\DtVQjTG8OGGKnwKYrMHRZVCyo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/dWFiPjtJpfcxAIDV8RPyuCq04.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\dWFiPjtJpfcxAIDV8RPyuCq04.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/e97VFGU1js4GGgvQCnvIiHpRf0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\e97VFGU1js4GGgvQCnvIiHpRf0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/eDNmF3DmGWYDX8NrhNZOl1SDyQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\eDNmF3DmGWYDX8NrhNZOl1SDyQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/eIZyQwIlHYR0mnMSneEDMtqBPgw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\eIZyQwIlHYR0mnMSneEDMtqBPgw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EL4v8OG6t2XwHSJLO1YF25DNiDw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\EL4v8OG6t2XwHSJLO1YF25DNiDw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/eOWZqb2nQ1SLbtYmcGBFYFSOE5U.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\eOWZqb2nQ1SLbtYmcGBFYFSOE5U.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EZSFVoaPWKnZ6GuVk5dlS5pk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\EZSFVoaPWKnZ6GuVk5dlS5pk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/f2kclCrwmFV8YeznrosrT3kcjE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\f2kclCrwmFV8YeznrosrT3kcjE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F3kdpd2N0cToWV5huaZjjgM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\F3kdpd2N0cToWV5huaZjjgM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FBzcXZYmdulcZC0z278U6o0cw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\FBzcXZYmdulcZC0z278U6o0cw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fEqgEChcTaneQFxeugexHq7Bk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\fEqgEChcTaneQFxeugexHq7Bk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fIabp4VN5z7iJ3lNOz9qfNeQHc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\fIabp4VN5z7iJ3lNOz9qfNeQHc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fmXYBApyDC604dR7g2aaACGvCk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\fmXYBApyDC604dR7g2aaACGvCk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ftN1HpyPVJEoEb4q36SOrNdLXU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\ftN1HpyPVJEoEb4q36SOrNdLXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FuEG87bF2T2uEeI84KQYYAE9wA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\FuEG87bF2T2uEeI84KQYYAE9wA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fWaKVy6hRB8Z8aBaXHMiFEvPILU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\fWaKVy6hRB8Z8aBaXHMiFEvPILU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fz1JbBffNGgK7BNUI1mmbFBlgA8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\fz1JbBffNGgK7BNUI1mmbFBlgA8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/g0c8vEViiXNlKAgI4Ymmk3Ig.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\g0c8vEViiXNlKAgI4Ymmk3Ig.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gawbeo7iEJSRZ4kcrh6YRrU8o.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\gawbeo7iEJSRZ4kcrh6YRrU8o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GdJ7SQjcmkU1sz7lk5lMpKUlKY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\GdJ7SQjcmkU1sz7lk5lMpKUlKY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GeFYhvsobZhw8u0Xza2zCmC8Cw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\GeFYhvsobZhw8u0Xza2zCmC8Cw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\GIryZETIX4IFypco5pYZONKhJIo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gLJVFeatQcrirAaS7jqVJIO4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\gLJVFeatQcrirAaS7jqVJIO4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gNa011yWpVpNFgUhhSlDX8nUiPQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\gNa011yWpVpNFgUhhSlDX8nUiPQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/goi1SSqo9KWshoqpg7CqWwBcQBc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\goi1SSqo9KWshoqpg7CqWwBcQBc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GSo3TkcX0SwmUNLnnUlsKhqgZI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\GSo3TkcX0SwmUNLnnUlsKhqgZI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H0Z3dXk6VFBv9TPQedY7FZVVVQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\H0Z3dXk6VFBv9TPQedY7FZVVVQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/hgmI3sEShaw5UU738TAjDBQPH0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\hgmI3sEShaw5UU738TAjDBQPH0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/HTPyW5jOpXfwIja9CrgNJUDriY4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\HTPyW5jOpXfwIja9CrgNJUDriY4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/IETjvc5qzUaRoaruDpPSwCUM8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\IETjvc5qzUaRoaruDpPSwCUM8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/if4nAQEfO1l3iBiurvlUSTaMA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\if4nAQEfO1l3iBiurvlUSTaMA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/iPDparXDXhfwSxmuiEXzr0b1vAU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\iPDparXDXhfwSxmuiEXzr0b1vAU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/IpeaX0WzLaonj68howNZg4SJJaY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\IpeaX0WzLaonj68howNZg4SJJaY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JAur4lGGSGRGyrFi59JSIKqVgU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\JAur4lGGSGRGyrFi59JSIKqVgU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\JEXmejW8mXOYMtt0hyRg811kHac.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jN39PDxZWEwjG7Csryx3JN2r2Y.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\jN39PDxZWEwjG7Csryx3JN2r2Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jplzYzqFHXreyADwk9yrkQlWQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\jplzYzqFHXreyADwk9yrkQlWQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JVGAsgKKXCCsDQ3MCrxIs5u1U.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\JVGAsgKKXCCsDQ3MCrxIs5u1U.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Kc2pkIGjh9K7EmlGx2sorKHcJDw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Kc2pkIGjh9K7EmlGx2sorKHcJDw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KCj1bV3vDXY5OLHttTeRYcu9J8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\KCj1bV3vDXY5OLHttTeRYcu9J8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\khkJkwSL66WFg8SX6Wa726c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KKQXBq6BF0xEmVbrTnWxh3Yw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\KKQXBq6BF0xEmVbrTnWxh3Yw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ksvR4VsLksjpSwnC2fPgHRNMw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\ksvR4VsLksjpSwnC2fPgHRNMw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/kZK78sVb0ChIxwI4EF00ArQvpu0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\kZK78sVb0ChIxwI4EF00ArQvpu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/l72nQILmlFUAK8OXlvJB8Qybl2M.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\l72nQILmlFUAK8OXlvJB8Qybl2M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/L9nHaKi7ULzGWchEehsfwttxOwM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\L9nHaKi7ULzGWchEehsfwttxOwM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/lr4LSmXa1klevAvb0jf1i2zsDE.mp4
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\lr4LSmXa1klevAvb0jf1i2zsDE.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MF544SVCvk3yNpLIz3pwDXFZPKM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\MF544SVCvk3yNpLIz3pwDXFZPKM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/miJTzODdiyIr3tRo9KEoqXXk2PM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\miJTzODdiyIr3tRo9KEoqXXk2PM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MRDnh8epalyri0qENYQVaYkjNjA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\MRDnh8epalyri0qENYQVaYkjNjA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MVhJhYeDWxeyqT939zMNyw9p8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\MVhJhYeDWxeyqT939zMNyw9p8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nE03Xxh2GngsU8hDpg6CRGxqfoM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\nE03Xxh2GngsU8hDpg6CRGxqfoM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NXxvFRoY5LDh3yCm7MEP2jqYk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\NXxvFRoY5LDh3yCm7MEP2jqYk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oG51mTqVfF2JDETyCzOOIQOpzY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\oG51mTqVfF2JDETyCzOOIQOpzY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oJJMyJlDykMObEyb5VexHSxd24.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\oJJMyJlDykMObEyb5VexHSxd24.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2qr9PAWBt905929rHfxmneMUG0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\P2qr9PAWBt905929rHfxmneMUG0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Pd8gNPn2dSCh4FyjWFw9PJysoQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Pd8gNPn2dSCh4FyjWFw9PJysoQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pe8RoujoPxuTZhqoNzYqHX2MXA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\pe8RoujoPxuTZhqoNzYqHX2MXA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pFve2DToKu0uyKsWs4NBTHpK7Vc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\pFve2DToKu0uyKsWs4NBTHpK7Vc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/PjAOIKsdFTryeYPWcKg4xHgWCTI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\PjAOIKsdFTryeYPWcKg4xHgWCTI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pkaPRuutZhWxJishes736uL2KM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\pkaPRuutZhWxJishes736uL2KM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/PONfPc6h4EPYwJliXQBmjVx7QxI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\PONfPc6h4EPYwJliXQBmjVx7QxI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qrVgiXNd6RuQjETYQiVQ9nqCk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\qrVgiXNd6RuQjETYQiVQ9nqCk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/r0mv3NegmA0akcQsNFotG32Las.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\r0mv3NegmA0akcQsNFotG32Las.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/RDJfWXA0aFdpD2OO2AJLBh2Z7E.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\RDJfWXA0aFdpD2OO2AJLBh2Z7E.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/RJeJJARdrtNUtic58kOz7hIgBuE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\RJeJJARdrtNUtic58kOz7hIgBuE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/SDel4nEmK9AyiBktaYZfYI9DrY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\SDel4nEmK9AyiBktaYZfYI9DrY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sMud1BrfhejzYfhsGoUtjWdRb90.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\sMud1BrfhejzYfhsGoUtjWdRb90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sOA6LVskcCqlqggyjIZe0Zh39UQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\sOA6LVskcCqlqggyjIZe0Zh39UQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/SorE7ZPZIqD5pBy9oKeSOEC0Q5k.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\SorE7ZPZIqD5pBy9oKeSOEC0Q5k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sSIKP2TfVPvfK7YVENPE5H87A.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\sSIKP2TfVPvfK7YVENPE5H87A.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/syX0favWwGMDkTs34aSUJp2FDg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\syX0favWwGMDkTs34aSUJp2FDg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sz8HQr9IEEln6nmUJ8X0dtBwUQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\sz8HQr9IEEln6nmUJ8X0dtBwUQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TB25ubMpKGgq66PNQGGdJB2VGM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\TB25ubMpKGgq66PNQGGdJB2VGM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/teGhWnhH3bCqefKGsIsqFy3hK8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\teGhWnhH3bCqefKGsIsqFy3hK8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TMYuLEOqLWgunxD5qCFeADEgk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\TMYuLEOqLWgunxD5qCFeADEgk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TNtxudDBkAm2RXdtU3rvTBwoM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\TNtxudDBkAm2RXdtU3rvTBwoM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/toNasQAsgu8B7dP8n9xdXRzdNhU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\toNasQAsgu8B7dP8n9xdXRzdNhU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TQqnntSFYYGDv7XtyT3ZhfvDA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\TQqnntSFYYGDv7XtyT3ZhfvDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/U6rSlhQtARASS79OoNbjIaecxY.ttf
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\U6rSlhQtARASS79OoNbjIaecxY.ttf
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/assets/U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ua60IRqWK94xCrq0SC639Hbsdjg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\ua60IRqWK94xCrq0SC639Hbsdjg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UHqhq621TbUtspKtPKPA1Ne8qY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\UHqhq621TbUtspKtPKPA1Ne8qY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UrzZBOy7RyJEWAZGduzOeHiHuY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\UrzZBOy7RyJEWAZGduzOeHiHuY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UTeedEK21hO5jDxEUldzdScUqpg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\UTeedEK21hO5jDxEUldzdScUqpg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/uUP0myN2OEY8kWGv4U4DKeDieDg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\uUP0myN2OEY8kWGv4U4DKeDieDg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/v2q8JTTTs7McDMSEhnxAIBqd0.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\v2q8JTTTs7McDMSEhnxAIBqd0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vFOa28RMJNgff4GnWLns8E8vGZw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vFOa28RMJNgff4GnWLns8E8vGZw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vFzuJY0c65av44uhEKB6vyjFMg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vFzuJY0c65av44uhEKB6vyjFMg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\VgYFWiwsAC5OYxAycRXXvhze58.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vpq17U0WM26sBGHgq9jnrUmUf8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vpq17U0WM26sBGHgq9jnrUmUf8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vSoBOmgqFUd0rVCgogjwL7jQI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vSoBOmgqFUd0rVCgogjwL7jQI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Vu4RH4OOAYHIXg4LpXVzNVmbpY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Vu4RH4OOAYHIXg4LpXVzNVmbpY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vuPfygr1n1zYxscvWgGI8hRf3LE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vuPfygr1n1zYxscvWgGI8hRf3LE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vYXKBGLaUwctOIY5xUjwrXQ4p8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\vYXKBGLaUwctOIY5xUjwrXQ4p8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/w3wwH92cnNPcZVAf63gAmGQW0k.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\w3wwH92cnNPcZVAf63gAmGQW0k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/w9aHRXFhel7kScIgRMsPqEwE3AY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\w9aHRXFhel7kScIgRMsPqEwE3AY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wmHLUqO4QxLaADUScavxvknnBQ.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\wmHLUqO4QxLaADUScavxvknnBQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WXQXYfAQJIi2pCJACAfWWXfIDqI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\WXQXYfAQJIi2pCJACAfWWXfIDqI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/x63grw3MJJK8pzlD0qnG8C0qVfs.mp4
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\x63grw3MJJK8pzlD0qnG8C0qVfs.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/xFtzow8wtMpaEQuIGgCbt25Qorg.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\xFtzow8wtMpaEQuIGgCbt25Qorg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xPVm3TFQkuvdIaC7nzaBBAiE5Y.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\xPVm3TFQkuvdIaC7nzaBBAiE5Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xSzma7KIWAdctStaX171ey3lams.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\xSzma7KIWAdctStaX171ey3lams.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xwWV9Y5bwNwM4PjHKFG1XmdwA.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\xwWV9Y5bwNwM4PjHKFG1XmdwA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yDiPvYxioBHsicnYxpPW35WQmx8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\yDiPvYxioBHsicnYxpPW35WQmx8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yHa3FUh9QDCLkYGoHU44PsRbTI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\yHa3FUh9QDCLkYGoHU44PsRbTI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yHWoQPBZSEiCC3aW3JXtcoFby8o.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\yHWoQPBZSEiCC3aW3JXtcoFby8o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YJsHMqeEm0oDHuxRTVCwg5eZuo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\YJsHMqeEm0oDHuxRTVCwg5eZuo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YSOgKh50dqzzsXffetgcarlLHcI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\YSOgKh50dqzzsXffetgcarlLHcI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ytuJ1iJd5SddEQ3LTMbeYRRwiE.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\ytuJ1iJd5SddEQ3LTMbeYRRwiE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YYB6GZmCWnZq3RWZOghuZIOxQY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\YYB6GZmCWnZq3RWZOghuZIOxQY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zLXnIInNs9VhCJZQ1B0FvHgtWDM.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\zLXnIInNs9VhCJZQ1B0FvHgtWDM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zpiI5DA3vCb3G2sqEyq9xqogo.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\zpiI5DA3vCb3G2sqEyq9xqogo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zsnJN7Z1wdzUvepJniD3rbvJIyU.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\zsnJN7Z1wdzUvepJniD3rbvJIyU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zUCSsMbWBcHOQoATrhsPVigkc.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\zUCSsMbWBcHOQoATrhsPVigkc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\assets\Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/09i4A2ZyAAjN6lLUSEuOQOSJaA.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\09i4A2ZyAAjN6lLUSEuOQOSJaA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/17iKWeuuqkLgX9Rjk3xSRgs5Ao.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\17iKWeuuqkLgX9Rjk3xSRgs5Ao.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/17iKWeuuqkLgX9Rjk3xSRgs5Ao.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\17iKWeuuqkLgX9Rjk3xSRgs5Ao-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/17iKWeuuqkLgX9Rjk3xSRgs5Ao.jpg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\17iKWeuuqkLgX9Rjk3xSRgs5Ao-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/1ApcT7kVDOZTELD8XFISmocdiA.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\1ApcT7kVDOZTELD8XFISmocdiA.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/1ApcT7kVDOZTELD8XFISmocdiA.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\1ApcT7kVDOZTELD8XFISmocdiA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/1ApcT7kVDOZTELD8XFISmocdiA.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\1ApcT7kVDOZTELD8XFISmocdiA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/1ApcT7kVDOZTELD8XFISmocdiA.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\1ApcT7kVDOZTELD8XFISmocdiA-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/1DnP5dH2zCEG3MEx1ykP9344AE.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\1DnP5dH2zCEG3MEx1ykP9344AE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1pIc1rMpjpUtE786hgleb1YPHUs.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\1pIc1rMpjpUtE786hgleb1YPHUs.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/3fTl0jOeNCf5k69Fvi5Sj616o.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\3fTl0jOeNCf5k69Fvi5Sj616o.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/3fTl0jOeNCf5k69Fvi5Sj616o.svg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\3fTl0jOeNCf5k69Fvi5Sj616o-1.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/3joeCkJjS19taciFeEISLP7R7A.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\3joeCkJjS19taciFeEISLP7R7A.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/3XaL4TeAqkKr15EfDOmt4MbKlE.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\3XaL4TeAqkKr15EfDOmt4MbKlE-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/3XaL4TeAqkKr15EfDOmt4MbKlE.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\3XaL4TeAqkKr15EfDOmt4MbKlE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/3YoH0H7AtJ7y2CJGe5wx6xbRI.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\3YoH0H7AtJ7y2CJGe5wx6xbRI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5lfBMonMhYpKxn0XVQsyZrLGY.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\5lfBMonMhYpKxn0XVQsyZrLGY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5lfBMonMhYpKxn0XVQsyZrLGY.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\5lfBMonMhYpKxn0XVQsyZrLGY-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5lfBMonMhYpKxn0XVQsyZrLGY.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\5lfBMonMhYpKxn0XVQsyZrLGY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6SRIXeYkuwOnCnMrsL18ApJ5Y0M.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\6SRIXeYkuwOnCnMrsL18ApJ5Y0M.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/6TnUhVyVQyStZl5qD521Z2LhWE.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\6TnUhVyVQyStZl5qD521Z2LhWE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/7ckekOZAa0J28C2T3IfYTvNDv5U.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\7ckekOZAa0J28C2T3IfYTvNDv5U.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7ckekOZAa0J28C2T3IfYTvNDv5U.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\7ckekOZAa0J28C2T3IfYTvNDv5U-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7ckekOZAa0J28C2T3IfYTvNDv5U.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\7ckekOZAa0J28C2T3IfYTvNDv5U-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7ckekOZAa0J28C2T3IfYTvNDv5U.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\7ckekOZAa0J28C2T3IfYTvNDv5U-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/9GRsxNpFTpjrYbqyUF579JcdU.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\9GRsxNpFTpjrYbqyUF579JcdU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/9GRsxNpFTpjrYbqyUF579JcdU.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\9GRsxNpFTpjrYbqyUF579JcdU-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Adnthkat9Kmod2JzKNU026OcIhM.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Adnthkat9Kmod2JzKNU026OcIhM.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/aEXCfRtkh5b9gEvEfH563370Q.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\aEXCfRtkh5b9gEvEfH563370Q.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/AkhwmIxpG19kDofdCqZOXNbBw.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\AkhwmIxpG19kDofdCqZOXNbBw-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/AkhwmIxpG19kDofdCqZOXNbBw.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\AkhwmIxpG19kDofdCqZOXNbBw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/AkhwmIxpG19kDofdCqZOXNbBw.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\AkhwmIxpG19kDofdCqZOXNbBw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/apNmHGbGKyy2Ie6h6ks6vVac794.jpeg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\apNmHGbGKyy2Ie6h6ks6vVac794.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/AQMGov7YNkCJL6GXLIkHU0qA8.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\AQMGov7YNkCJL6GXLIkHU0qA8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/b3BLsHGxFiGBMyUTd8NXKfVsXk.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\b3BLsHGxFiGBMyUTd8NXKfVsXk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/b3BLsHGxFiGBMyUTd8NXKfVsXk.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\b3BLsHGxFiGBMyUTd8NXKfVsXk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/b3BLsHGxFiGBMyUTd8NXKfVsXk.png?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\b3BLsHGxFiGBMyUTd8NXKfVsXk-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bhW8RU9rjm9SKgMhNU44A6U1WQ.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\bhW8RU9rjm9SKgMhNU44A6U1WQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bhW8RU9rjm9SKgMhNU44A6U1WQ.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\bhW8RU9rjm9SKgMhNU44A6U1WQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bm6ST2JsFJfQDPm40xaWe3kW0E8.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\bm6ST2JsFJfQDPm40xaWe3kW0E8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bm6ST2JsFJfQDPm40xaWe3kW0E8.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\bm6ST2JsFJfQDPm40xaWe3kW0E8-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/C035WTjq26WdHZwmR1zAssXUVk.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\C035WTjq26WdHZwmR1zAssXUVk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/C035WTjq26WdHZwmR1zAssXUVk.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\C035WTjq26WdHZwmR1zAssXUVk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CBJVr6cITQFN1n5Sx7pdmDZs5M.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\CBJVr6cITQFN1n5Sx7pdmDZs5M.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/cLNiJwDO84gLuI8RO99sGWGE48.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\cLNiJwDO84gLuI8RO99sGWGE48.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/cLNiJwDO84gLuI8RO99sGWGE48.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\cLNiJwDO84gLuI8RO99sGWGE48-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CNa1DNFRjwYsiZfatJ8ENXBzMg.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\CNa1DNFRjwYsiZfatJ8ENXBzMg.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/CsuMiXUmCtXyVNX96RnWTzg8YA.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\CsuMiXUmCtXyVNX96RnWTzg8YA.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/CsuMiXUmCtXyVNX96RnWTzg8YA.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\CsuMiXUmCtXyVNX96RnWTzg8YA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/CsuMiXUmCtXyVNX96RnWTzg8YA.jpg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\CsuMiXUmCtXyVNX96RnWTzg8YA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DqMrqBfDB0913xsOLaDNyVxg8.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\DqMrqBfDB0913xsOLaDNyVxg8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/DqvEul0ceENI3SeBbE20azQ3Rg4.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\DqvEul0ceENI3SeBbE20azQ3Rg4.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/EscdojPqf1yGLYlz5YbC5EY5I.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\EscdojPqf1yGLYlz5YbC5EY5I.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/EscdojPqf1yGLYlz5YbC5EY5I.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\EscdojPqf1yGLYlz5YbC5EY5I-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/EscdojPqf1yGLYlz5YbC5EY5I.png?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\EscdojPqf1yGLYlz5YbC5EY5I-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/EscdojPqf1yGLYlz5YbC5EY5I.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\EscdojPqf1yGLYlz5YbC5EY5I-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/FMmCpOJHBN0HZgz7UV01l6l7Bws.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\FMmCpOJHBN0HZgz7UV01l6l7Bws.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/gzimbQHXTo5bipaw1UA4KHDfhBM.webp
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\gzimbQHXTo5bipaw1UA4KHDfhBM.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/h3ah8gyqATw9PglwzZrQvUTLkWc.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\h3ah8gyqATw9PglwzZrQvUTLkWc.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/h3ah8gyqATw9PglwzZrQvUTLkWc.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\h3ah8gyqATw9PglwzZrQvUTLkWc-1.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Hu4RqEYgOr0SFIvicnT7vrplRLc.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Hu4RqEYgOr0SFIvicnT7vrplRLc.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Hu4RqEYgOr0SFIvicnT7vrplRLc.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Hu4RqEYgOr0SFIvicnT7vrplRLc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Hu4RqEYgOr0SFIvicnT7vrplRLc.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Hu4RqEYgOr0SFIvicnT7vrplRLc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Hu4RqEYgOr0SFIvicnT7vrplRLc.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Hu4RqEYgOr0SFIvicnT7vrplRLc-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\iABb6ejla3A5ZzE4zgxiPqBaYHI-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\iABb6ejla3A5ZzE4zgxiPqBaYHI-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\iABb6ejla3A5ZzE4zgxiPqBaYHI-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ifegN49CTqSL3buJgDktaI5l4D4.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\ifegN49CTqSL3buJgDktaI5l4D4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/iLbfin5zVsqyOfh1HciucZx2BCM.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\iLbfin5zVsqyOfh1HciucZx2BCM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ix17NHLPwkdEX8Ge6vnKELvVbxg.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\ix17NHLPwkdEX8Ge6vnKELvVbxg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ix17NHLPwkdEX8Ge6vnKELvVbxg.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\ix17NHLPwkdEX8Ge6vnKELvVbxg-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ix17NHLPwkdEX8Ge6vnKELvVbxg.png?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\ix17NHLPwkdEX8Ge6vnKELvVbxg-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ix17NHLPwkdEX8Ge6vnKELvVbxg.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\ix17NHLPwkdEX8Ge6vnKELvVbxg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/j3QMHANrMtaNHM3FGnQd589aiJk.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\j3QMHANrMtaNHM3FGnQd589aiJk.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/j3QMHANrMtaNHM3FGnQd589aiJk.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\j3QMHANrMtaNHM3FGnQd589aiJk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/j3QMHANrMtaNHM3FGnQd589aiJk.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\j3QMHANrMtaNHM3FGnQd589aiJk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/j3QMHANrMtaNHM3FGnQd589aiJk.jpg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\j3QMHANrMtaNHM3FGnQd589aiJk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/jbfbj1Ys9ZJCyGdRWdVeoAkWs.jpeg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\jbfbj1Ys9ZJCyGdRWdVeoAkWs.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/jH3Lho8q6oRaKSGzXto5oT6Y8fI.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\jH3Lho8q6oRaKSGzXto5oT6Y8fI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JrNXff62Z0VhpbDAJUe4hoPcZe4.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\JrNXff62Z0VhpbDAJUe4hoPcZe4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JrNXff62Z0VhpbDAJUe4hoPcZe4.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\JrNXff62Z0VhpbDAJUe4hoPcZe4-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JrNXff62Z0VhpbDAJUe4hoPcZe4.png?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\JrNXff62Z0VhpbDAJUe4hoPcZe4-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JrNXff62Z0VhpbDAJUe4hoPcZe4.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\JrNXff62Z0VhpbDAJUe4hoPcZe4-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/KfsUX7SjXWF8GYOil2kfkZ9e1PA.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\KfsUX7SjXWF8GYOil2kfkZ9e1PA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/KfsUX7SjXWF8GYOil2kfkZ9e1PA.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\KfsUX7SjXWF8GYOil2kfkZ9e1PA-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/KfsUX7SjXWF8GYOil2kfkZ9e1PA.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\KfsUX7SjXWF8GYOil2kfkZ9e1PA-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kkUKqr82zHBAiAivPormLwPPJU.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\kkUKqr82zHBAiAivPormLwPPJU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kkUKqr82zHBAiAivPormLwPPJU.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\kkUKqr82zHBAiAivPormLwPPJU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kkUKqr82zHBAiAivPormLwPPJU.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\kkUKqr82zHBAiAivPormLwPPJU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kkUKqr82zHBAiAivPormLwPPJU.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\kkUKqr82zHBAiAivPormLwPPJU-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LaTVlk81sx8ILmLpYKAoFhTIsg.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\LaTVlk81sx8ILmLpYKAoFhTIsg.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LaTVlk81sx8ILmLpYKAoFhTIsg.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\LaTVlk81sx8ILmLpYKAoFhTIsg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LaTVlk81sx8ILmLpYKAoFhTIsg.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\LaTVlk81sx8ILmLpYKAoFhTIsg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LaTVlk81sx8ILmLpYKAoFhTIsg.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\LaTVlk81sx8ILmLpYKAoFhTIsg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LaTVlk81sx8ILmLpYKAoFhTIsg.jpg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\LaTVlk81sx8ILmLpYKAoFhTIsg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lOFwNYZ4BIPRs5ulMTUq448UKA.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\lOFwNYZ4BIPRs5ulMTUq448UKA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lOFwNYZ4BIPRs5ulMTUq448UKA.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\lOFwNYZ4BIPRs5ulMTUq448UKA-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/lOFwNYZ4BIPRs5ulMTUq448UKA.png?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\lOFwNYZ4BIPRs5ulMTUq448UKA-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/M5ysfKBFYqVvGabK4E62MrL4fmU.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\M5ysfKBFYqVvGabK4E62MrL4fmU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M5ysfKBFYqVvGabK4E62MrL4fmU.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\M5ysfKBFYqVvGabK4E62MrL4fmU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M5ysfKBFYqVvGabK4E62MrL4fmU.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\M5ysfKBFYqVvGabK4E62MrL4fmU-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M5ysfKBFYqVvGabK4E62MrL4fmU.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\M5ysfKBFYqVvGabK4E62MrL4fmU-4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M5ysfKBFYqVvGabK4E62MrL4fmU.jpg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\M5ysfKBFYqVvGabK4E62MrL4fmU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/mS9DksWDy9YuklPNcsRsLtpKns.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\mS9DksWDy9YuklPNcsRsLtpKns.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/mS9DksWDy9YuklPNcsRsLtpKns.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\mS9DksWDy9YuklPNcsRsLtpKns-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/mS9DksWDy9YuklPNcsRsLtpKns.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\mS9DksWDy9YuklPNcsRsLtpKns-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/mS9DksWDy9YuklPNcsRsLtpKns.jpg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\mS9DksWDy9YuklPNcsRsLtpKns-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/N7DCkvCoJMKoD2fPf5JoU3u31x0.jpeg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\N7DCkvCoJMKoD2fPf5JoU3u31x0.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/N7DCkvCoJMKoD2fPf5JoU3u31x0.jpeg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\N7DCkvCoJMKoD2fPf5JoU3u31x0-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/NhUEgN1iAX324xoQPlmhlJuyS2s.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\NhUEgN1iAX324xoQPlmhlJuyS2s.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NhUEgN1iAX324xoQPlmhlJuyS2s.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\NhUEgN1iAX324xoQPlmhlJuyS2s-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NhUEgN1iAX324xoQPlmhlJuyS2s.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\NhUEgN1iAX324xoQPlmhlJuyS2s-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Nl4NZwlXZFlRNEqrwsqwUsok.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Nl4NZwlXZFlRNEqrwsqwUsok.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/npqw3BCrfk9aIb7OGVa1JiolRI.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\npqw3BCrfk9aIb7OGVa1JiolRI.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/NuKtfwIigpvtFdYbzNf53JZAeM.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\NuKtfwIigpvtFdYbzNf53JZAeM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NuKtfwIigpvtFdYbzNf53JZAeM.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\NuKtfwIigpvtFdYbzNf53JZAeM-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NuKtfwIigpvtFdYbzNf53JZAeM.png?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\NuKtfwIigpvtFdYbzNf53JZAeM-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NuKtfwIigpvtFdYbzNf53JZAeM.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\NuKtfwIigpvtFdYbzNf53JZAeM-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nww4DdkMvmJxdugAgkvnZUkSxWI.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\nww4DdkMvmJxdugAgkvnZUkSxWI.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/nYTStRK8BTs9BqPtyFVwdPEcR0.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\nYTStRK8BTs9BqPtyFVwdPEcR0.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/nYTStRK8BTs9BqPtyFVwdPEcR0.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\nYTStRK8BTs9BqPtyFVwdPEcR0-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/nYTStRK8BTs9BqPtyFVwdPEcR0.jpg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\nYTStRK8BTs9BqPtyFVwdPEcR0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oNgyg7PjX2PDKO4rlRDR25dDcrE.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\oNgyg7PjX2PDKO4rlRDR25dDcrE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oUkBi1c8nERocfQrJWNLxZ9Fipw.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\oUkBi1c8nERocfQrJWNLxZ9Fipw.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oUkBi1c8nERocfQrJWNLxZ9Fipw.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\oUkBi1c8nERocfQrJWNLxZ9Fipw-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oUkBi1c8nERocfQrJWNLxZ9Fipw.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\oUkBi1c8nERocfQrJWNLxZ9Fipw-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oUkBi1c8nERocfQrJWNLxZ9Fipw.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\oUkBi1c8nERocfQrJWNLxZ9Fipw-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oV8JfjgQRSnVFU8rr9lmR0jakAo.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\oV8JfjgQRSnVFU8rr9lmR0jakAo.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/oV8JfjgQRSnVFU8rr9lmR0jakAo.svg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\oV8JfjgQRSnVFU8rr9lmR0jakAo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/p3k2ZqsMWvyolmqn5ojoVIXJoc.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\p3k2ZqsMWvyolmqn5ojoVIXJoc.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/p3k2ZqsMWvyolmqn5ojoVIXJoc.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\p3k2ZqsMWvyolmqn5ojoVIXJoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/p3k2ZqsMWvyolmqn5ojoVIXJoc.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\p3k2ZqsMWvyolmqn5ojoVIXJoc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/p3k2ZqsMWvyolmqn5ojoVIXJoc.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\p3k2ZqsMWvyolmqn5ojoVIXJoc-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/pqY7wow1K9PLz4vYCNB7DRTOecQ.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\pqY7wow1K9PLz4vYCNB7DRTOecQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QMirkdl4WPEe5bmSFhvVcssWj4.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\QMirkdl4WPEe5bmSFhvVcssWj4.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/R3mlzUOTgsF7UREzd7djeaN6Tlg.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\R3mlzUOTgsF7UREzd7djeaN6Tlg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rLTzPjf6RX2MCr8WqeBpjMXtHtM.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\rLTzPjf6RX2MCr8WqeBpjMXtHtM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/RY1L2gK7AY3IXxp4YoBIhI0TEE.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\RY1L2gK7AY3IXxp4YoBIhI0TEE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/RY1L2gK7AY3IXxp4YoBIhI0TEE.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\RY1L2gK7AY3IXxp4YoBIhI0TEE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/RY1L2gK7AY3IXxp4YoBIhI0TEE.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\RY1L2gK7AY3IXxp4YoBIhI0TEE-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sGy47JyoyVUZzLUL7GzsBEnqQs.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\sGy47JyoyVUZzLUL7GzsBEnqQs.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sGy47JyoyVUZzLUL7GzsBEnqQs.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\sGy47JyoyVUZzLUL7GzsBEnqQs-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sGy47JyoyVUZzLUL7GzsBEnqQs.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\sGy47JyoyVUZzLUL7GzsBEnqQs-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sGy47JyoyVUZzLUL7GzsBEnqQs.jpg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\sGy47JyoyVUZzLUL7GzsBEnqQs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/uIlTXr4xn0vcRCcByCRIUHjDKk.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\uIlTXr4xn0vcRCcByCRIUHjDKk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/uIlTXr4xn0vcRCcByCRIUHjDKk.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\uIlTXr4xn0vcRCcByCRIUHjDKk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/uq6zXIDNGe8FdLwyhVsZbOvu0.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\uq6zXIDNGe8FdLwyhVsZbOvu0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/uvT9OMjjWrX8q2k8YHbvKRdOz0s.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\uvT9OMjjWrX8q2k8YHbvKRdOz0s.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/uvT9OMjjWrX8q2k8YHbvKRdOz0s.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\uvT9OMjjWrX8q2k8YHbvKRdOz0s-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/uvT9OMjjWrX8q2k8YHbvKRdOz0s.png?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\uvT9OMjjWrX8q2k8YHbvKRdOz0s-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/uvT9OMjjWrX8q2k8YHbvKRdOz0s.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\uvT9OMjjWrX8q2k8YHbvKRdOz0s-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/wI9ISjTRqGkEcI0QILPOAWtjyvw.jpeg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\wI9ISjTRqGkEcI0QILPOAWtjyvw.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wObpwrI6s0q7TOTWalCjnQAlo.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\wObpwrI6s0q7TOTWalCjnQAlo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/wObpwrI6s0q7TOTWalCjnQAlo.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\wObpwrI6s0q7TOTWalCjnQAlo-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/wSTMuf43v53LhUXnkMUV4OjH88.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\wSTMuf43v53LhUXnkMUV4OjH88.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wSTMuf43v53LhUXnkMUV4OjH88.jpg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\wSTMuf43v53LhUXnkMUV4OjH88-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wSTMuf43v53LhUXnkMUV4OjH88.jpg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\wSTMuf43v53LhUXnkMUV4OjH88-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wSTMuf43v53LhUXnkMUV4OjH88.jpg?scale-down-to=4096
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\wSTMuf43v53LhUXnkMUV4OjH88-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/wY5G1Wewoo4887yuqBbnGBD57g.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\wY5G1Wewoo4887yuqBbnGBD57g.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/wY5G1Wewoo4887yuqBbnGBD57g.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\wY5G1Wewoo4887yuqBbnGBD57g-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/XYH8nAmwY5bCWkCLHRczsEN4iTE.jpg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\XYH8nAmwY5bCWkCLHRczsEN4iTE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/yDcRzvvq3W9ZoRj7RG1XoNWTm4U.jpeg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\yDcRzvvq3W9ZoRj7RG1XoNWTm4U.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/YOtnuHuK9p7szWnOCaj3V862Owg.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\YOtnuHuK9p7szWnOCaj3V862Owg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/YOtnuHuK9p7szWnOCaj3V862Owg.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\YOtnuHuK9p7szWnOCaj3V862Owg-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/YOtnuHuK9p7szWnOCaj3V862Owg.png?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\YOtnuHuK9p7szWnOCaj3V862Owg-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/YOtnuHuK9p7szWnOCaj3V862Owg.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\YOtnuHuK9p7szWnOCaj3V862Owg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Yt6LEExDDJyRDzQqT2mAVIJV0.jpeg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Yt6LEExDDJyRDzQqT2mAVIJV0.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Yt6LEExDDJyRDzQqT2mAVIJV0.jpeg?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Yt6LEExDDJyRDzQqT2mAVIJV0-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Yt6LEExDDJyRDzQqT2mAVIJV0.jpeg?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Yt6LEExDDJyRDzQqT2mAVIJV0-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Yt6LEExDDJyRDzQqT2mAVIJV0.jpeg?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Yt6LEExDDJyRDzQqT2mAVIJV0-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Z23q6Tus2XwsdrHMIU5a5tsagw.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Z23q6Tus2XwsdrHMIU5a5tsagw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Z23q6Tus2XwsdrHMIU5a5tsagw.png?scale-down-to=1024
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Z23q6Tus2XwsdrHMIU5a5tsagw-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Z23q6Tus2XwsdrHMIU5a5tsagw.png?scale-down-to=2048
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Z23q6Tus2XwsdrHMIU5a5tsagw-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Z23q6Tus2XwsdrHMIU5a5tsagw.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\Z23q6Tus2XwsdrHMIU5a5tsagw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/zIClxPcModBMB2sib6D8ZXxyA.png
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\zIClxPcModBMB2sib6D8ZXxyA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/zIClxPcModBMB2sib6D8ZXxyA.png?scale-down-to=512
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\zIClxPcModBMB2sib6D8ZXxyA-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ZSy65kiC43Vd68CFFY6QS9JVBY.svg
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\images\ZSy65kiC43Vd68CFFY6QS9JVBY.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/4GZLUxJTi_mRitd-G2bZqphZnF7S_M9tsqlbbBFnIP8.Bv1ZItZ_.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\4GZLUxJTi_mRitd-G2bZqphZnF7S_M9tsqlbbBFnIP8.Bv1ZItZ_.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/ABKs9wxVy.BKJaF4zJ.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\ABKs9wxVy.BKJaF4zJ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/ADJCSktRp.92eVpC4B.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\ADJCSktRp.92eVpC4B.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/augiA20Il.DNeRu1jc.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\augiA20Il.DNeRu1jc.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/AxwVOlpsXbM2bTjgHoc7n7DyGJ95qOSvE1ucj9nd4IU.C2WEKvLB.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\AxwVOlpsXbM2bTjgHoc7n7DyGJ95qOSvE1ucj9nd4IU.C2WEKvLB.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/b12R-v5_jwqH0xpDzzFB_DqJHrP-_5WC2WFkPN16sbg.CCKfG4t9.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\b12R-v5_jwqH0xpDzzFB_DqJHrP-_5WC2WFkPN16sbg.CCKfG4t9.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/BB5OYjlP6.CaD8xlfY.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\BB5OYjlP6.CaD8xlfY.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/Cookies.CZOePUSd.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\Cookies.CZOePUSd.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/ehKa82uSf.D_Y6BJJ0.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\ehKa82uSf.D_Y6BJJ0.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/Ep224U9Tq.B1nX4qv8.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\Ep224U9Tq.B1nX4qv8.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/esq4CtRQU.C00rXD8Z.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\esq4CtRQU.C00rXD8Z.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/FL_5u29tCyEGXeULb9UrxnERgvNS_A2y4LTdi8BIgLA.BZin8DFm.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\FL_5u29tCyEGXeULb9UrxnERgvNS_A2y4LTdi8BIgLA.BZin8DFm.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/framer.hVgNyPh1.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\framer.hVgNyPh1.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/GjjDxfohi.CQzw1OkT.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\GjjDxfohi.CQzw1OkT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/GNvaONxX6.D7YCtKKQ.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\GNvaONxX6.D7YCtKKQ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/GNvaONxX6.e3FqJ4NP.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\GNvaONxX6.e3FqJ4NP.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/IHYC0Q7Lw.CtA_0Rpq.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\IHYC0Q7Lw.CtA_0Rpq.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/IHYC0Q7Lw.D0VGP3IR.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\IHYC0Q7Lw.D0VGP3IR.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/IIgQIgEvp.CpC4Z-rT.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\IIgQIgEvp.CpC4Z-rT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/jI9g6_rBZ.D8i266Dp.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\jI9g6_rBZ.D8i266Dp.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/M6ZCZvjGw.xTnQZmfL.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\M6ZCZvjGw.xTnQZmfL.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/motion.BfJAx-2t.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\motion.BfJAx-2t.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/mzkrkKEMRRidjQHEp_I3_139fahiJDGCoEaT2xIZrkw.O-4Yysru.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\mzkrkKEMRRidjQHEp_I3_139fahiJDGCoEaT2xIZrkw.O-4Yysru.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/M_l_BNXz0.BqIRSa5A.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\M_l_BNXz0.BqIRSa5A.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/No6tSeT1l_pMtp2NWZ-PRZJS8bMPhnWiEmf_xZF1ynE.DkmZeQ5E.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\No6tSeT1l_pMtp2NWZ-PRZJS8bMPhnWiEmf_xZF1ynE.DkmZeQ5E.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/PWs2C3X5OUNCa3QGXSSvJtqvlAzP-02752TW58-i9n4.DRNUSIbu.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\PWs2C3X5OUNCa3QGXSSvJtqvlAzP-02752TW58-i9n4.DRNUSIbu.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/Qhd_F11PsPZ9XxbAdlehV-vTkDyJrl69sxCHOqNe698.BX4ETH5M.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\Qhd_F11PsPZ9XxbAdlehV-vTkDyJrl69sxCHOqNe698.BX4ETH5M.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/QhK6qqT5U.B74-PDVi.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\QhK6qqT5U.B74-PDVi.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/QTUIaz6DzazuyrsoVIesb6LJ83ZcT8vqG0aHig8XOqQ.huOJOjsN.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\QTUIaz6DzazuyrsoVIesb6LJ83ZcT8vqG0aHig8XOqQ.huOJOjsN.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/react.B15azXZU.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\react.B15azXZU.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/RMpAvj7R1.CBiohaBO.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\RMpAvj7R1.CBiohaBO.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/rolldown-runtime.cPkV7R5m.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\rolldown-runtime.cPkV7R5m.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/RRfglOyqS.UTXNr8tg.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\RRfglOyqS.UTXNr8tg.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/RviuxMi4c.CWqX8vjg.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\RviuxMi4c.CWqX8vjg.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/S8knEEx1t13IGTAnQIOisAlvkP1IGMX0HrQ6Si00nWY.LLnWHh3E.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\S8knEEx1t13IGTAnQIOisAlvkP1IGMX0HrQ6Si00nWY.LLnWHh3E.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/script_main.Bqs85scy.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\script_main.Bqs85scy.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/shared-lib.Bf4pW8VD.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\shared-lib.Bf4pW8VD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/sRJw43Ool.BDkZsOwT.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\sRJw43Ool.BDkZsOwT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/T2ovXrSkJ.DV0o2zrG.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\T2ovXrSkJ.DV0o2zrG.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/T53pWdh8J.Cn7Cmer8.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\T53pWdh8J.Cn7Cmer8.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/t9Bm4Zwbw.DkSEvAsq.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\t9Bm4Zwbw.DkSEvAsq.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/Text_Opacity_Letters_2.t-JLzt2f.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\Text_Opacity_Letters_2.t-JLzt2f.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/tOmTEOg5P.BxzG-lfZ.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\tOmTEOg5P.BxzG-lfZ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/txtCoChTWhQUlzBQH4y4NT471aOD_NQ6FtCMgMqckOw.Bvag_KG6.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\txtCoChTWhQUlzBQH4y4NT471aOD_NQ6FtCMgMqckOw.Bvag_KG6.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/VnmEZ_3BZ._tMogCRK.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\VnmEZ_3BZ._tMogCRK.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/vOdUheqiw.jXMMBzuR.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\vOdUheqiw.jXMMBzuR.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/VqzHkfxgp.UxqDrkbw.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\VqzHkfxgp.UxqDrkbw.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/vYiBD0y2c.C_Y9_HeW.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\vYiBD0y2c.C_Y9_HeW.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/xGSVuIr38.CeUdwRiI.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\xGSVuIr38.CeUdwRiI.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/xiFlfywBl.Ehg2mtLT.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\xiFlfywBl.Ehg2mtLT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/YiGMTkTlt.DKhfBMoN.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\YiGMTkTlt.DKhfBMoN.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4jrBsquV4Dl0Bk3fBsZAUf/yoco0NHMS.mbdS5H3f.mjs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\sites\4jrBsquV4Dl0Bk3fBsZAUf\yoco0NHMS.mbdS5H3f.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/2SAK53YLUN7RMYJU4MYLSBV6SSSJEJZB/RXS4DPGJRKOUFZMF5X5BVUGNNKJT65XZ/DJS4RYGIUYUXJQOHY5VCZPKSTXUSHTSP.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\2SAK53YLUN7RMYJU4MYLSBV6SSSJEJZB\RXS4DPGJRKOUFZMF5X5BVUGNNKJT65XZ\DJS4RYGIUYUXJQOHY5VCZPKSTXUSHTSP.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/5ICO57VJIN252OT5L2KLEIPW754DTLAO/ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK/TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\5ICO57VJIN252OT5L2KLEIPW754DTLAO\ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK\TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ/R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM/CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\BNWG6MUI4RTC6WEND2VPDH4MHMIVU3XZ\R5YXY5FMVG6PXU36GNEEA24MIPMEPGSM\CIM4KQCLZSMMLWPVH25IDDSTY4ENPHEY.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P\HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH\BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI\PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD\GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/MKEEQN57GWBZOSYWCRODNJOOZNPLMAKN/5SPTSZGHEACWWLF34DQ4WAA4OGU6PQIF/KN7DX4F6PXB74R6L2K2Y4NH3CB7FC53Q.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\MKEEQN57GWBZOSYWCRODNJOOZNPLMAKN\5SPTSZGHEACWWLF34DQ4WAA4OGU6PQIF\KN7DX4F6PXB74R6L2K2Y4NH3CB7FC53Q.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO/W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA/QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO\W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA\QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE/PSUTMASCDJTVPERDYJZPN23BVUFUCQIF/J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE\PSUTMASCDJTVPERDYJZPN23BVUFUCQIF\J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA\ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB\7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\third-party-assets\fontshare\wf\TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT\7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6\KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.codefriday.co/
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\index.htm
+Content Type: text/html
+
+Uri: https://www.codefriday.co/about
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\about.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/automations
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\automations.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/blogs
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\blogs.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/blogs/cs-1
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\blogs\cs-1.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/blogs/cs-2
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\blogs\cs-2.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/blogs/cs-3
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\blogs\cs-3.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/case-study
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/case-study/asappio
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\asappio.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/case-study/edgeiot
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\edgeiot.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/case-study/farmie
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\farmie.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/case-study/karocharge
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\karocharge.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/case-study/yutu
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\case-study\yutu.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/contact
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\contact.html
+Content Type: text/html
+
+Uri: https://www.codefriday.co/privacy-policy
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-H6BMT7DER6
+File Name: C:\Users\OMOMK\Desktop\Copy\www.codefriday.co\gtag\js
+Content Type: application/javascript
+
